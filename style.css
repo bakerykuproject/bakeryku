@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf2f8;
+    margin: 0;
+    padding: 40px;
+}
+
+.profile {
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h1 {
+    color: #d9468b;
+}
+
+p {
+    font-size: 16px;
+}
